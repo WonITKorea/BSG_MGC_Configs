@@ -1,0 +1,1314 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="merge_key_80">0</string>
+    <boolean name="use_physical_raw" value="true" />
+    <string name="lib_chromalowa_l4_key">0010701E</string>
+    <string name="ptchr_sabresharp_key">OFF</string>
+    <string name="iso_photo_limit_key_0">16</string>
+    <string name="c_t_user_rr_key"></string>
+    <string name="prof60_videoBitRate_key"></string>
+    <string name="ptchr_settings_color_key_0">1</string>
+    <string name="pref_double_tap_key">zoom</string>
+    <string name="videobitrate_240_key">0</string>
+    <string name="lib_saturation2_key">0</string>
+    <boolean name="camera.mts_accel_faces_back" value="true" />
+    <string name="ptchr_user_addr_4_key"></string>
+    <string name="gawb_user_rg_b_key"></string>
+    <string name="ptchr_settings_color_key_3">0</string>
+    <string name="ptchr_settings_color_key_2">0</string>
+    <string name="ptchr_spatialsub1_key">OFF</string>
+    <string name="ptchr_user_addr_16_key"></string>
+    <boolean name="beholder_enabled" value="true" />
+    <string name="ptchr_cg5_key_0">OFF</string>
+    <string name="quality_ns_corrector_key">0</string>
+    <boolean name="easel_environment_enabled" value="true" />
+    <string name="hwlevel_key_21">6</string>
+    <string name="hwlevel_key_20">3</string>
+    <string name="lib_red_key">0</string>
+    <string name="expcomp_key_0">0</string>
+    <string name="ptchr_chromahigha_l4_key">OFF</string>
+    <string name="lib_hot_pixel_suppression_key">80F6004F</string>
+    <string name="pref_switch_to_previous_mode_command_string">-1</string>
+    <string name="5023888530744267108">1</string>
+    <string name="ptchr_depth2_key_0">04102e1e</string>
+    <string name="vid_ses_tl_all_key">0</string>
+    <string name="ptchr_noiseaberr_key">OFF</string>
+    <string name="lib_luma_l4_key">E003679E</string>
+    <string name="ptchr_exposure_darker_key">OFF</string>
+    <string name="ptchr_user_gamma_19_key"></string>
+    <string name="ptchr_gamma_whites_key_0">OFF</string>
+    <string name="ptchr_vignettec_key">OFF</string>
+    <string name="lib_chromahigha_l1_key">E003679E</string>
+    <string name="ptchr_chromahigh_l3_key">OFF</string>
+    <string name="ptchr_temporaldenoise_key_2">01902F1E</string>
+    <string name="ptchr_temporaldenoise_key_3">01D02F1E</string>
+    <string name="ptchr_temporaldenoise_key_0">01902F1E</string>
+    <string name="pref_camera_hdrplus_option_available_key">1</string>
+    <string name="lib_exposuren_key">0</string>
+    <string name="ptchr_sharpness_key_2">A8FEE7D2</string>
+    <string name="ptchr_light_shadow_key_0">1</string>
+    <string name="ptchr_sharpness_key_3">88FEE7D2</string>
+    <string name="ptchr_light_shadow_key_3">1</string>
+    <string name="ptchr_sharpness_key_0">C8FEE7D2</string>
+    <string name="ptchr_light_shadow_key_2">1</string>
+    <string name="ptchr_removeblur_key_0">0310A952A16962BC6200271E4A0500913F000AEB2018221E0040201E</string>
+    <string name="shasta_key_80">0</string>
+    <string name="prof30_audioSampleRate_key"></string>
+    <string name="pref_has_seen_permissions_dialogs">1</string>
+    <boolean name="UNLOCK_AF_AE_WITH_SCENE_CHANGE_FOR_FRONT_CAM" value="true" />
+    <string name="ptchr_sharpsmoothing_key_0">OFF</string>
+    <string name="ptchr_grid_settiins_key_2">0</string>
+    <boolean name="camera.gouda.depth_use_opencl" value="true" />
+    <string name="pref_social_app_com_discord">0</string>
+    <string name="gawb_user_bg_b_key"></string>
+    <string name="ptchr_grid_settiins_key_3">0</string>
+    <string name="videocodec_120_key">0</string>
+    <string name="frame_count_key">7</string>
+    <string name="ptchr_grid_settiins_key_0">0</string>
+    <string name="ptchr_spatialn2_key_52">14d8a752</string>
+    <string name="ptchr_ochromalow_l4_key">OFF</string>
+    <string name="ptchr_hdreffect_key_0">02103C1E</string>
+    <string name="ptchr_smoothing2_key_0">OFF</string>
+    <string name="noise_model_user_a_1_key"></string>
+    <boolean name="camera.promote_night_sight" value="false" />
+    <string name="c_f_a_key_52">2</string>
+    <boolean name="finish_long_shot_capture" value="true" />
+    <string name="ptchr_orgb_key">OFF</string>
+    <string name="lib_sharp1_key">0</string>
+    <boolean name="camera.prod_testing" value="false" />
+    <boolean name="camera.mts_fast_hdr_p3" value="true" />
+    <string name="ptchr_user_gamma_5_key"></string>
+    <string name="ptchr_spatialsub2_key">OFF</string>
+    <string name="prof60_fhd_audioSampleRate_key_0">16000</string>
+    <string name="lib_user_curve_10">0.751</string>
+    <string name="ptchr_user_gamma_27_key"></string>
+    <string name="autons_key">1</string>
+    <string name="lib_user_curve_12">0.875</string>
+    <string name="lib_user_curve_11">0.816</string>
+    <string name="lib_user_curve_14">0.969</string>
+    <string name="lib_user_curve_13">0.926</string>
+    <string name="ptchr_user_gamma_key_0">0</string>
+    <string name="frame_count_key_52">15</string>
+    <string name="lib_user_curve_15">1.0</string>
+    <string name="expastro_key_2">2000</string>
+    <string name="expastro_key_1">1000</string>
+    <string name="gawb_user_rg_c_key"></string>
+    <string name="expastro_key_3">1000</string>
+    <boolean name="camera.auto_fps" value="true" />
+    <string name="artemis_vid_key">1</string>
+    <int name="max_hdr_plus_burst_frame_count" value="17" />
+    <string name="expastro_key_0">2000</string>
+    <string name="lens_bl_key">21</string>
+    <string name="ptchr_grid2_key">OFF</string>
+    <string name="ptchr_hot_pixel_suppression_key_0">00f6034f</string>
+    <string name="ptchr_hot_pixel_suppression_key_2">c0f7014f</string>
+    <string name="pref_video_stab_button_untouched_count">4</string>
+    <string name="c_t_user_bg_key"></string>
+    <string name="ptchr_hot_pixel_suppression_key_3">c0f5014f</string>
+    <string name="videoframe_240_key">0</string>
+    <string name="lib_curve_pdarks_key">333</string>
+    <string name="ptchr_user_value_1_key"></string>
+    <string name="ptchr_user_curve_10_key"></string>
+    <string name="expcomp_key">0</string>
+    <string name="eis_v_key_0">61444</string>
+    <string name="ptchr_finalsharpness_key">OFF</string>
+    <string name="ptchr_chromahigh_l4_key">OFF</string>
+    <string name="ptchr_smoothness_key_0">00d02f1e</string>
+    <string name="ptchr_user_addr_15_key"></string>
+    <string name="ptchr_contrast_2_key">OFF</string>
+    <string name="ptchr_noisesuppression_key">OFF</string>
+    <string name="ptchr_smoothness_key_3">00d02e1e</string>
+    <string name="lib_gor_key">0</string>
+    <string name="expastro_key_21">1000</string>
+    <string name="eis_v_key_3">0</string>
+    <string name="ptchr_hot_pixel_suppression_key_52">c0f5014f</string>
+    <string name="ptchr_curve_pdarks_key_0">450</string>
+    <string name="eis_v_key_2">61444</string>
+    <string name="ptchr_chromalow_key_3">68FFE7D2</string>
+    <string name="ptchr_chromahigha_l3_key">OFF</string>
+    <string name="ptchr_sect_whites_key">OFF</string>
+    <string name="ptchr_iso_option_available_key">OFF</string>
+    <string name="ptchr_chromalow_key_0">08FFE7D2</string>
+    <string name="lib_chromalowa_l3_key">0010701E</string>
+    <string name="ptchr_chromalow_key_2">C8FFE7D2</string>
+    <string name="merge_key_21">4</string>
+    <string name="merge_key_20">0</string>
+    <boolean name="camcorder.stokes_mra" value="true" />
+    <boolean name="SABRE_ALLOWED" value="true" />
+    <string name="pref_camera_raw_output_option_available_key">1</string>
+    <string name="ptchr_hot_pixel_suppression_key">OFF</string>
+    <string name="gawb_user_key_0">0</string>
+    <string name="face_detect_key">0</string>
+    <string name="ptchr_spatialsub1_key_0">C1F7034F</string>
+    <boolean name="camera.mts_new_topshot_weight" value="true" />
+    <string name="ptchr_user_curve_0_key"></string>
+    <string name="ptchr_enable_key_0">1</string>
+    <string name="ptchr_spatialsub1_key_2">81F6034F</string>
+    <string name="ptchr_spatialsub1_key_3">01F6024F</string>
+    <string name="ptchr_enable_key_1">1</string>
+    <string name="ptchr_enable_key_2">1</string>
+    <string name="ptchr_smoothing2_key">OFF</string>
+    <string name="ptchr_enable_key_3">1</string>
+    <string name="ptchr_user_gamma_26_key"></string>
+    <string name="ptchr_anoisemodels_key_0">61008052</string>
+    <string name="ptchr_saturation2_key_3">08F2A7D2</string>
+    <string name="ptchr_ochromalow_l3_key">OFF</string>
+    <string name="ptchr_saturation2_key_2">08F2A7D2</string>
+    <string name="ptchr_saturation2_key_0">08F2A7D2</string>
+    <string name="ptchr_anoisemodels_key_3">61008052</string>
+    <string name="ptchr_anoisemodels_key_2">61008052</string>
+    <string name="ptchr_contrast_1_key">OFF</string>
+    <string name="ptchr_processing_col_key_3">0</string>
+    <string name="ptchr_user_gamma_6_key"></string>
+    <string name="wl_key">0</string>
+    <string name="ptchr_processing_col_key_2">0</string>
+    <string name="merge_key_52">4</string>
+    <string name="ptchr_processing_col_key_1">1</string>
+    <string name="ptchr_processing_col_key_0">1</string>
+    <string name="gawb_user_bg_c_key"></string>
+    <boolean name="camera.mts_actions_back" value="true" />
+    <string name="ptchr_user_curve_11_key"></string>
+    <string name="ptchr_user_value_2_key"></string>
+    <string name="ptchr_sect_pwhites_key_0">333</string>
+    <string name="shasta_key_52">0</string>
+    <string name="smartphone_key">0</string>
+    <string name="ptchr_sabre1_key_2">00103D1E</string>
+    <string name="ptchr_sabre1_key_0">00503E1E</string>
+    <string name="gawb_photo_b">0</string>
+    <string name="noise_model_user_a_0_key"></string>
+    <string name="vid_ses60_all_key">0</string>
+    <string name="gawb_photo_f">1</string>
+    <string name="ptchr_ldr_hdr_key_0">1</string>
+    <string name="ptchr_ldr_hdr_key_2">0</string>
+    <string name="ptchr_ldr_hdr_key_3">1</string>
+    <string name="eis_v_ph_key"></string>
+    <string name="ptchr_user_value_10_key"></string>
+    <string name="ptchr_user_4_key_0">0</string>
+    <string name="ptchr_temporal_radius_key_52">0cc0a852</string>
+    <string name="pref_audio_zoom_key">1</string>
+    <string name="ptchr_gamma_pdarks_key">OFF</string>
+    <string name="lib_sharp2_key">0</string>
+    <string name="pref_zoom_in_command_string">-1</string>
+    <string name="pref_camera_dynamic_depth_enabled_key">0</string>
+    <string name="quality_auto_setting_key_3">0</string>
+    <string name="quality_auto_setting_key_2">1</string>
+    <boolean name="camera.mts_4k" value="true" />
+    <string name="shasta_key_21">0</string>
+    <string name="ptchr_shastamerge3_key_0">6102621E</string>
+    <string name="shasta_key_20">0</string>
+    <string name="quality_auto_setting_key_0">1</string>
+    <string name="pref_has_shown_longp_education">0</string>
+    <string name="pref_camera_grid_lines_mode">3</string>
+    <string name="ptchr_spatialsub1_key_52">01F6034F</string>
+    <string name="audiocodec_240_key">0</string>
+    <string name="ptchr_grid1_key">OFF</string>
+    <boolean name="back_flash_off_by_default" value="true" />
+    <string name="lib_hdr_effect_intensity_key">0</string>
+    <string name="prof60_fhd_videoBitRate_key_0">40000000</string>
+    <string name="lib_chromalowa_l2_key">0010701E</string>
+    <string name="4390655206876967142">1</string>
+    <string name="ptchr_chromamicro_key_0">OFF</string>
+    <string name="ptchr_smoothness_key">OFF</string>
+    <string name="ptchr_sabresharp1_key">OFF</string>
+    <string name="ptchr_curve_pwhites_key">OFF</string>
+    <string name="ptchr_user_addr_2_key"></string>
+    <boolean name="camera.gouda.single_output" value="true" />
+    <string name="pref_camera_enable_iris">1</string>
+    <string name="pref_first_time_video_stab_tooltip">1</string>
+    <string name="ptchr_user_addr_14_key"></string>
+    <string name="ptchr_sharp3_key_2">OFF</string>
+    <string name="ptchr_sharp3_key_0">OFF</string>
+    <string name="lib_brightness_intensity_key">0</string>
+    <string name="ptchr_user_gamma_18_key"></string>
+    <string name="ptchr_sharp2_key_0">OFF</string>
+    <string name="expastro_key">0</string>
+    <string name="ptchr_main_global_settings_key_52">1</string>
+    <string name="lib_sharp3_key">0</string>
+    <string name="b_p_p_key">0</string>
+    <string name="ptchr_sabre2_key_52">0824A852</string>
+    <string name="lib_filtercoef4_key">0</string>
+    <string name="ptchr_contrast_2_key_0">295C8FC2F528DC3F</string>
+    <string name="ptchr_luma_l1_key">OFF</string>
+    <string name="eis_v_pt_key"></string>
+    <string name="ptchr_user_curve_1_key"></string>
+    <string name="prof60_fhd_videoBitRate_key"></string>
+    <string name="ptchr_smoothing1_key">OFF</string>
+    <string name="active_cam_id_back_key">0</string>
+    <string name="ptchr_sharp2_key_2">OFF</string>
+    <int name="camera.artemis_idx" value="5" />
+    <string name="lib_chromahigha_l3_key">E003679E</string>
+    <string name="ptchr_user_gamma_25_key"></string>
+    <string name="ptchr_awb1_key_0">OFF</string>
+    <string name="lib_depth1_key">0</string>
+    <string name="ptchr_user_addr_5_key"></string>
+    <int name="smart_metering_threshold" value="3" />
+    <string name="ptchr_user_sect_5_key"></string>
+    <string name="ptchr_vignette_key_0">08F02D1E</string>
+    <string name="ptchr_underexpo1_key_0">6666663F</string>
+    <string name="ptchr_user_value_3_key"></string>
+    <boolean name="exif_model_make_sanitization_enabled" value="true" />
+    <boolean name="camera.mts_accel_action_front" value="true" />
+    <string name="ptchr_sabre_set_key_3">0</string>
+    <string name="ptchr_sabretexttun_key_2">OFF</string>
+    <string name="ptchr_sabre_set_key_2">1</string>
+    <string name="lib_hdr_range_minus_key">03103C1E</string>
+    <string name="raw_key_0">2</string>
+    <string name="fileformat_240_key">0</string>
+    <string name="lib_spatialsub2_key">0</string>
+    <string name="ptchr_sabretexttun_key_0">OFF</string>
+    <string name="raw_key_1">0</string>
+    <string name="ptchr_sabre_set_key_0">0</string>
+    <string name="raw_key_2">0</string>
+    <boolean name="camera.catshark_cheese" value="true" />
+    <string name="raw_key_3">0</string>
+    <boolean name="camera.display_cutout_mode_enabled" value="true" />
+    <string name="ptchr_curve_pwhites_key_0">300</string>
+    <string name="ptchr_ochromahigha_l2_key">OFF</string>
+    <string name="ptchr_luma_key_0">08FEE7D2</string>
+    <string name="prof30_fhd_fileFormat_key"></string>
+    <string name="ptchr_user_addr_3_key"></string>
+    <string name="ptchr_ochromahigha_l1_key">OFF</string>
+    <string name="lib_luma_key">0801F8D2</string>
+    <string name="ptchr_exposuren_key_0">6666E63F</string>
+    <string name="5163090721408703698">1</string>
+    <string name="lib_blurdenoise2_key">0</string>
+    <string name="lib_dehazedexpo_key">88FAE7D2</string>
+    <string name="ptchr_luma_l1_key_0">0110201E</string>
+    <string name="ptchr_saturation_key">OFF</string>
+    <boolean name="camera.p20_lens_setup" value="true" />
+    <string name="panorama_upgrade_version">1</string>
+    <string name="lib_sharpradmed_key">0</string>
+    <string name="ptchr_hdr_effect_intensity_key_0">09302e1e</string>
+    <string name="exp_ns_limit_key">0</string>
+    <string name="iso_portrait_limit_key_0">6</string>
+    <boolean name="camcorder.stokes_dyn" value="true" />
+    <string name="ptchr_user_curve_2_key"></string>
+    <string name="lib_brightness_key">0</string>
+    <string name="lib_orgb_key">0</string>
+    <string name="lib_chromalowa_l1_key">0010701E</string>
+    <string name="ptchr_iso_option_available_key_2">0000E040</string>
+    <string name="eis_v_key">0</string>
+    <string name="ptchr_gamma_whites_key">OFF</string>
+    <string name="ptchr_iso_option_available_key_0">OFF</string>
+    <string name="pref_has_checked_photosphere_mode">1</string>
+    <string name="pref_switch_camera_command_string">-1</string>
+    <string name="lib_chromahigha_l2_key">E003679E</string>
+    <string name="pref_switch_to_next_mode_command_string">-1</string>
+    <string name="ptchr_sabresharp2_key">OFF</string>
+    <string name="lib_exposuren2_key">0</string>
+    <string name="pref_libs_key">0</string>
+    <string name="pref_social_app_com_instagram_android">1</string>
+    <string name="bl_key">0</string>
+    <string name="ptchr_user_addr_13_key"></string>
+    <string name="quality_key">2</string>
+    <string name="device_hdrplus_key">3</string>
+    <boolean name="camera.gouda.allow_raw_blur_rear" value="true" />
+    <string name="lib_gamma_darks_key">-18</string>
+    <string name="lib_vignettec_key">0</string>
+    <string name="quality_photo_corrector_key">0</string>
+    <string name="ptchr_luma_l2_key">OFF</string>
+    <string name="lib_sect_whites_key">15</string>
+    <string name="qjpg_key">100</string>
+    <string name="lib_denoise_key">88FBE7D2</string>
+    <string name="ptchr_noisereduction_key_0">OFF</string>
+    <string name="gawb_user_bg_a_key"></string>
+    <string name="ptchr_user_value_4_key"></string>
+    <string name="ptchr_lutnoise2_key_0">OFF</string>
+    <boolean name="camera.optbar.show_auto_flash_option" value="true" />
+    <string name="ptchr_hdreffect_key">OFF</string>
+    <string name="lib_hdrup_key">0</string>
+    <string name="reinit_mode_id">1</string>
+    <string name="ptchr_user_gamma_17_key"></string>
+    <int name="social_share_v2_handle_style" value="1" />
+    <string name="pref_social_app_com_google_android_youtube">0</string>
+    <string name="lib_sect_darks_key">-6</string>
+    <string name="manual_focus_infinity_key">0.0</string>
+    <string name="ptchr_shastamerge1_key">OFF</string>
+    <string name="ptchr_anoisemodels_key">OFF</string>
+    <string name="pref_social_app_com_kakao_talk">0</string>
+    <string name="lib_sharp4_key">0</string>
+    <string name="ptchr_sabresharp3_key">OFF</string>
+    <string name="4501626079406833814">1</string>
+    <boolean name="camera.cuttle.enable_timeout" value="false" />
+    <string name="gawb_user_rg_a_key"></string>
+    <boolean name="camera.dualev.singleKnob" value="false" />
+    <string name="audiobitrate_240_key">0</string>
+    <string name="ptchr_exposuren_key">OFF</string>
+    <long name="tooltip_latest_impression_timestamp_for_try_washington_tooltip" value="1623560352989" />
+    <string name="ptchr_chromalow_key">OFF</string>
+    <string name="pref_shutter_command_string">-1</string>
+    <boolean name="camera.hwhdr_intent" value="true" />
+    <string name="pref_has_checked_gouda_mode">1</string>
+    <string name="ptchr_user_sect_4_key"></string>
+    <string name="ptchr_saturation2_key">OFF</string>
+    <string name="lib_colprocessing_key">0</string>
+    <string name="ptchr_cg2_key">OFF</string>
+    <string name="noise_model_user_b_1_key"></string>
+    <string name="ptchr_nluma_l1_key">OFF</string>
+    <string name="ptchr_noisemodelunblock_key">OFF</string>
+    <string name="ptchr_ndenoisec3_key">OFF</string>
+    <string name="vid_ses120_on_key">0</string>
+    <string name="raw_key_20">0</string>
+    <string name="c_t_user_gg_key"></string>
+    <string name="vid_ses30_all_key_3">61444</string>
+    <string name="raw_key_21">0</string>
+    <string name="audiosamplerate_120_key">0</string>
+    <string name="ptchr_denoise_key_3">0800E8D2</string>
+    <string name="ptchr_denoise_key_2">88FFE7D2</string>
+    <string name="ptchr_denoise_key_0">8800E8D2</string>
+    <boolean name="camera.mts_full_res_ls" value="true" />
+    <string name="vid_ses30_all_key_0">61442</string>
+    <string name="ptchr_curve_darks_key_0">-6</string>
+    <string name="pref_ext_mic_key">0</string>
+    <string name="lib_hdr_range_plus_key">0310251E</string>
+    <string name="lib_exposure_depending_key">0</string>
+    <string name="ptchr_user_gamma_24_key"></string>
+    <boolean name="camera.hdr_postview_hvx.RESTART" value="false" />
+    <string name="ptchr_sabre2_key">OFF</string>
+    <string name="ptchr_luma_l3_key">OFF</string>
+    <boolean name="camera.mts_face_diversity" value="true" />
+    <string name="vid_ses30_all_key">0</string>
+    <string name="ptchr_shastamerge2_key">OFF</string>
+    <string name="gawb_user_rg_f_key"></string>
+    <int name="camera.f_tuning" value="1" />
+    <string name="lib_colormaplut_key">0</string>
+    <string name="pref_camera_back_flashmode_key">off</string>
+    <string name="pref_social_app_org_telegram_messenger">0</string>
+    <string name="ptchr_lutnoise1_key_0">OFF</string>
+    <string name="ptchr_sl_intensity_key">OFF</string>
+    <boolean name="camera.lenslite.enable_lightweight_suggestions" value="true" />
+    <string name="lib_curve_key">0</string>
+    <string name="lib_noisemodel_key">0</string>
+    <string name="ptchr_chromalow_key_52">4800E8D2</string>
+    <string name="ptchr_nchromalow_l5_key">OFF</string>
+    <string name="pref_has_checked_social_app_toggle">1</string>
+    <string name="lib_scenelightness_key">0</string>
+    <string name="ptchr_user_addr_20_key"></string>
+    <string name="ptchr_user_curve_14_key"></string>
+    <string name="ptchr_user_value_5_key"></string>
+    <string name="lib_curve_pwhites_key">333</string>
+    <string name="ptchr_gamma_key_0">0</string>
+    <string name="pref_camera_video_back_flashmode_thermally_disabled_key">0</string>
+    <string name="ptchr_user_value_20_key"></string>
+    <string name="ptchr_lutnoise2_key">OFF</string>
+    <boolean name="camera.sabre_unzoomed_astro" value="false" />
+    <boolean name="camera.mts_fast_hdr" value="false" />
+    <string name="ptchr_chromahigh_key">OFF</string>
+    <string name="ptchr_user_gamma_16_key"></string>
+    <string name="vid_ses60_on_key_0">1</string>
+    <string name="-1587173316919344081">1</string>
+    <string name="vid_ses60_on_key_3">1</string>
+    <string name="lib_chromalow_l3_key">0</string>
+    <string name="pref_has_checked_social_share">1</string>
+    <string name="ptchr_anoisemodels_key_52">61008052</string>
+    <string name="lib_sharp_distrib3_key">0</string>
+    <string name="pref_camera_resolution">full</string>
+    <string name="key_aspect_ratio">1</string>
+    <boolean name="camera.enable_hound" value="false" />
+    <boolean name="camera.cheetah_hq" value="true" />
+    <string name="noise_model_user_d_2_key"></string>
+    <string name="raw_key_52">0</string>
+    <string name="ptchr_noise_settings_key_52">1</string>
+    <string name="cawb_key_1">0</string>
+    <string name="cawb_key_0">0</string>
+    <string name="cawb_key_3">0</string>
+    <string name="cawb_key_2">0</string>
+    <boolean name="camera.auto_timer_enabled" value="true" />
+    <string name="ptchr_chromalow_l2_key">OFF</string>
+    <boolean name="camera.artemis_portrait" value="true" />
+    <string name="ptchr_user_addr_7_key"></string>
+    <string name="ptchr_ochromahigh_l4_key">OFF</string>
+    <string name="ptchr_colormaplut_key_0">OFF</string>
+    <string name="lib_gamma_pwhites_key">333</string>
+    <string name="ptchr_saturation2_key_52">08F2A7D2</string>
+    <string name="a_banding_key">3</string>
+    <boolean name="camera_hermes_enabled" value="true" />
+    <string name="log_key">1</string>
+    <string name="ptchr_ochromahigh_l3_key">OFF</string>
+    <string name="lib_finalsharpness_key">010A8052</string>
+    <string name="noise_model_user_b_0_key"></string>
+    <boolean name="camera.ddepth_front" value="true" />
+    <string name="ptchr_sect_darks_key_0">-6</string>
+    <string name="ptchr_gor_key_0">OFF</string>
+    <int name="field_of_view_millidegrees" value="77000" />
+    <string name="ptchr_sabresharp1_key_0">0190201E</string>
+    <string name="prof60_audioChannels_key"></string>
+    <string name="pref_has_set_social_share_apps">1</string>
+    <string name="ptchr_sabresharp1_key_2">0110201E</string>
+    <string name="vid_ses240_all_key">0</string>
+    <boolean name="pd_calibration_data_supported" value="true" />
+    <string name="lib_user_addr_1">010cb44c</string>
+    <string name="ptchr_spatialn2_key_2">14e4a752</string>
+    <string name="lib_user_addr_3"></string>
+    <string name="ptchr_spatialn2_key_3">14d0a752</string>
+    <string name="lib_user_addr_2">010cb44c</string>
+    <string name="pref_upgrade_version">21</string>
+    <string name="-270970726837111031">1</string>
+    <string name="ptchr_sabre1_key">OFF</string>
+    <string name="ptchr_spatialn2_key_0">14fea752</string>
+    <string name="ptchr_small_levelsoldn_key_0">0</string>
+    <string name="ptchr_ndenoisec2_key">OFF</string>
+    <string name="prof60_audioBitRate_key"></string>
+    <string name="ptchr_luma_l4_key">OFF</string>
+    <string name="ptchr_user_3_key_0">0</string>
+    <string name="noise_model_user_o_o_key"></string>
+    <boolean name="working_camera_fallback_enabled" value="true" />
+    <boolean name="camcorder.stereo" value="true" />
+    <string name="c_t_key_52">6</string>
+    <string name="pref_video_fps_4k_key">FPS_60</string>
+    <string name="reset_manual_focus_key">1</string>
+    <string name="pref_first_time_video_stab_edu">1</string>
+    <string name="hwlevel_key">1</string>
+    <string name="lib_user_addr_4"></string>
+    <string name="ptchr_gamma_darks_key">OFF</string>
+    <string name="ptchr_sabre2_key_2">0824A852</string>
+    <string name="ptchr_cg3_key">OFF</string>
+    <string name="ptchr_curve_darks_key">OFF</string>
+    <string name="ptchr_shastamerge3_key">OFF</string>
+    <string name="ptchr_sabre2_key_0">8841A852</string>
+    <string name="ptchr_user_curve_15_key"></string>
+    <string name="lib_sharpsmoothing_key">000080BF</string>
+    <string name="pref_camera_recordlocation_key">1</string>
+    <string name="ptchr_gamma_darks_key_0">OFF</string>
+    <string name="lib_zipper_key">0</string>
+    <string name="pref_has_checked_cuttlefish_mode">1</string>
+    <boolean name="camera.shasta_psl" value="true" />
+    <string name="c_t_user_rn_key">0</string>
+    <string name="face_detect_key_52">2</string>
+    <string name="pref_camera_single_shot_sound_key">0</string>
+    <string name="ptchr_zipper_key_2">9A992940</string>
+    <boolean name="camera.lenslite.enable_text_wifi_credentials" value="true" />
+    <string name="ptchr_zipper_key_0">CDCC1C40</string>
+    <string name="lib_spatialsub1_key">0</string>
+    <string name="lib_chromahigha_l4_key">E003679E</string>
+    <string name="lib_chromalow_l2_key">0</string>
+    <string name="ptchr_blurdenoise2_key">OFF</string>
+    <string name="raw_key_80">0</string>
+    <string name="ptchr_sect_darks_key">OFF</string>
+    <string name="c_t_user_bb_key"></string>
+    <string name="ptchr_user_value_6_key"></string>
+    <string name="ptchr_sabre_set_key_52">1</string>
+    <string name="pref_camera_astro">-1</string>
+    <string name="ptchr_sabresharp_key_2">00502E1E</string>
+    <string name="ptchr_sabresharp_key_0">00D0201E</string>
+    <string name="ptchr_user_value_19_key"></string>
+    <string name="lib_saturation_key">88FDE7D2</string>
+    <string name="ptchr_user_gamma_15_key"></string>
+    <string name="lib_sect_pdarks_key">333</string>
+    <boolean name="use_immersive_rounded_corners" value="true" />
+    <string name="ptchr_hdr_range_minus_key_3">03503E1E</string>
+    <string name="ptchr_hdr_range_minus_key_0">03D03E1E</string>
+    <string name="lib_depth2_key">0</string>
+    <string name="lib_luma_l1_key">E003679E</string>
+    <string name="lib_exposure_darker_key">0</string>
+    <string name="noise_model_user_d_1_key"></string>
+    <string name="ptchr_user_addr_6_key"></string>
+    <string name="lib_sharprsmall_key">C0035FD6</string>
+    <string name="eis_v_le_key"></string>
+    <string name="ptchr_sharpradsmal_key">OFF</string>
+    <string name="pref_af_mode_back">0</string>
+    <string name="vid_ses60_all_key_0">61448</string>
+    <string name="vid_ses60_all_key_3">61444</string>
+    <string name="ptchr_hdrup_key_0">02902E1E</string>
+    <string name="ptchr_curve_key_0">0</string>
+    <string name="ptchr_chroma_l2_key">OFF</string>
+    <string name="c_t_key_20">6</string>
+    <string name="lib_luma_l2_key">E003679E</string>
+    <string name="ptchr_sharpradsmal_key_0">OFF</string>
+    <string name="gawb_user_rg_d_key"></string>
+    <string name="ptchr_chromalow_l1_key">OFF</string>
+    <string name="raw_key">1</string>
+    <string name="prof60_fhd_audioCodec_key"></string>
+    <string name="ptchr_chromahigh_l1_key">OFF</string>
+    <string name="noise_model_user_a_2_key"></string>
+    <string name="ptchr_user_value_7_key"></string>
+    <string name="ptchr_sabresharp2_key_0">00502E1E</string>
+    <string name="device_hdrplus_key_5">0</string>
+    <string name="ptchr_ochroma_l4_key">OFF</string>
+    <string name="device_hdrplus_key_3">4</string>
+    <string name="device_hdrplus_key_2">5</string>
+    <string name="ptchr_nchromalow_l3_key">OFF</string>
+    <string name="noise_model_user_b_3_key"></string>
+    <string name="ptchr_sabresharp2_key_2">00502E1E</string>
+    <string name="device_hdrplus_key_1">5</string>
+    <string name="ptchr_denoise_key">OFF</string>
+    <string name="device_hdrplus_key_0">4</string>
+    <string name="ptchr_blurdenoise3_key_0">0010201E</string>
+    <string name="face_detect_key_2">2</string>
+    <string name="ptchr_finalsharpness_key_2">01208052</string>
+    <string name="face_detect_key_3">0</string>
+    <string name="ptchr_user_2_key_0">0</string>
+    <int name="tooltip_impression_count_for_try_washington_tooltip" value="4" />
+    <string name="ptchr_finalsharpness_key_0">C1128052</string>
+    <string name="lib_chromahigh_key">0</string>
+    <string name="ptchr_sect_whites_key_0">15</string>
+    <string name="cawb_key">0</string>
+    <string name="manual_focus_far_key">0.0</string>
+    <string name="pref_release_dialog_last_shown_version"></string>
+    <string name="face_detect_key_0">2</string>
+    <string name="face_detect_key_1">2</string>
+    <string name="ptchr_ochromalow_l2_key">OFF</string>
+    <string name="quality_portrait_corrector_key">0</string>
+    <string name="lib_chromalow_l1_key">0</string>
+    <string name="ptchr_chromahigha_l2_key">OFF</string>
+    <string name="pref_volume_key_action">shutter</string>
+    <string name="zoom_key">0</string>
+    <string name="ptchr_temporaldenoise_key">OFF</string>
+    <string name="ptchr_ochromalow_l1_key">OFF</string>
+    <string name="ptchr_user_1_key_0">0</string>
+    <string name="def_astro_key_2">0</string>
+    <boolean name="camera.3a_conv" value="false" />
+    <string name="ptchr_user_addr_9_key"></string>
+    <string name="ptchr_exposure_darker2_key">OFF</string>
+    <string name="ptchr_small_levels_keyold_key_0">0</string>
+    <string name="gawb_user_rg_g_key"></string>
+    <string name="ptchr_chromalow_l4_key">OFF</string>
+    <string name="def_astro_key_0">0</string>
+    <string name="def_astro_key_1">0</string>
+    <string name="active_cam_id_back_loc_key">0</string>
+    <string name="ptchr_user_gamma_29_key"></string>
+    <string name="b_p_p_key_0">32</string>
+    <string name="idle_focus_key">1</string>
+    <string name="ptchr_nchromalow_l2_key">OFF</string>
+    <string name="vid_ses30_on_key_3">1</string>
+    <string name="prof30_audioCodec_key"></string>
+    <string name="b_p_p_key_3">35</string>
+    <string name="ptchr_user_curve_12_key"></string>
+    <string name="ptchr_sharpradmed_key_2">E70758BD</string>
+    <string name="ptchr_nluma_l3_key">OFF</string>
+    <string name="pref_camera_hdr_plus_key">on</string>
+    <string name="ptchr_sharpradmed_key_0">OFF</string>
+    <string name="ptchr_ndenoisec4_key">OFF</string>
+    <string name="ptchr_blurdenoise2_key_0">29008052</string>
+    <string name="ptchr_hdr2a_key_0">OFF</string>
+    <string name="ptchr_user_gamma_14_key"></string>
+    <string name="lib_sharpradsmal_key">0</string>
+    <boolean name="AWB_FOR_HDR_PLUS_ENHANCED" value="true" />
+    <string name="ptchr_noise_smoothing_key_52">1</string>
+    <string name="ptchr_chromahigh_l2_key">OFF</string>
+    <string name="lib_curve_whites_key">18</string>
+    <string name="ptchr_nluma_l2_key">OFF</string>
+    <string name="noise_model_user_a_3_key"></string>
+    <string name="ptchr_user_gamma_13_key"></string>
+    <string name="gawbratio_key_0">4</string>
+    <string name="hwlevel_key_0">3</string>
+    <string name="hwlevel_key_1">0</string>
+    <boolean name="camera.gouda.shasta_zsl" value="true" />
+    <string name="vid_ses30_on_key_0">1</string>
+    <string name="noise_model_user_d_3_key"></string>
+    <string name="bl_key_2">0</string>
+    <string name="ptchr_chroma_l5_key_0">01102E1E</string>
+    <string name="prof30_fileFormat_key"></string>
+    <string name="lib_luma_l3_key">E003679E</string>
+    <string name="bl_key_3">1</string>
+    <string name="ptchr_cg1_key">OFF</string>
+    <string name="gawbratio_key_3">5</string>
+    <string name="hwlevel_key_5">0</string>
+    <string name="gawbratio_key_2">3</string>
+    <string name="hwlevel_key_2">3</string>
+    <string name="gawbratio_key_1">3</string>
+    <string name="bl_key_0">0</string>
+    <string name="hwlevel_key_3">0</string>
+    <string name="ptchr_hdr2b_key_0">OFF</string>
+    <string name="lib_lumanoise_key">E0F7074F</string>
+    <string name="pref_video_hevc_setting_key">0</string>
+    <boolean name="camera.shasta.force" value="true" />
+    <string name="pref_camera_sounds_key">0</string>
+    <string name="active_cam_id_front_key">1</string>
+    <long name="tooltip_latest_impression_timestamp_for_Astro_smarts_chip" value="1618705849567" />
+    <string name="ptchr_temporal_radius_key">OFF</string>
+    <string name="noise_model_user_b_2_key"></string>
+    <string name="ptchr_nchromalow_l4_key">OFF</string>
+    <string name="ptchr_user_value_8_key"></string>
+    <boolean name="camcorder.4k60fps" value="true" />
+    <string name="gawb_user_rg_e_key"></string>
+    <string name="ptchr_lutnoise1_key">OFF</string>
+    <string name="ptchr_user_addr_8_key"></string>
+    <string name="ptchr_curve_whites_key_0">13</string>
+    <string name="ptchr_sharpness_key_52">48FEE7D2</string>
+    <boolean name="camera.acat_lc_only" value="false" />
+    <string name="ptchr_chroma_l3_key_0">01102F1E</string>
+    <string name="iso_ns_limit_key_0">3</string>
+    <string name="pref_video_fps_key">FPS_30</string>
+    <int name="gcam.zsl_buffer_size" value="18" />
+    <string name="ptchr_ochroma_l5_key">OFF</string>
+    <string name="ptchr_temporaldenoise_key_52">01902F1E</string>
+    <string name="ptchr_darkenlight_key">OFF</string>
+    <string name="perf_has_run_second_education">0</string>
+    <string name="ptchr_chromahigha_l1_key">OFF</string>
+    <string name="dotfix_key">0</string>
+    <string name="ptchr_sect_pdarks_key_0">333</string>
+    <string name="ptchr_user_curve_13_key"></string>
+    <boolean name="camera.coach.scene_detection" value="true" />
+    <string name="ptchr_noisemodel_key_52">61008052</string>
+    <string name="pref_libpatoggle_key">1</string>
+    <string name="lib_vignette_key">0</string>
+    <string name="lib_noisemodelunblock_key">0</string>
+    <boolean name="camera.lenslite.enable_document_scanning" value="true" />
+    <string name="8025907272817569833">1</string>
+    <string name="exp_portrait_limit_key">0</string>
+    <string name="c_t_user_br_key"></string>
+    <string name="pref_has_checked_lens_mode">1</string>
+    <string name="quality_key_80">0</string>
+    <string name="manual_focus_near_key">0.833</string>
+    <string name="ptchr_chroma_l2_key_0">0110201E</string>
+    <string name="ptchr_chromalow_l3_key">OFF</string>
+    <string name="ptchr_user_gamma_28_key"></string>
+    <string name="prof30_fhd_videoBitRate_key"></string>
+    <string name="quality_120_key">0</string>
+    <string name="pref_camera_dirty_lens_history_key0">-6.9861345|-4.0419126|-3.4338295|-0.31797364|-0.7294148|-0.4666888|-4.1816854|0.2714172|-1.1736536|-0.775966|0.5610106|-0.14094807|0.18003908|1.0276302|1.0156233|-1.3462119|-0.58914053|-3.2710898|1.2209988|-0.18330088|-0.20276178|2.3045447|0.50081134|-4.7410817|1.5300437|-3.1868324|-0.8612025|-2.5436916|-2.1984892|0.5727204|-0.16578445|-3.603504|</string>
+    <boolean name="camera.catshark_enabled.RESTART" value="true" />
+    <string name="pref_camera_dirty_lens_history_key1">-3.9896197|-0.1432302|-2.583283|</string>
+    <string name="pref_camera_dirty_lens_history_key2">-4.639791|-5.0974402|-5.631617|-2.385539|-1.4265063|-2.093682|-2.7069535|-0.8414442|2.3001537|-2.091043|-2.003885|-0.99211997|-0.9503237|-1.4512327|-2.1543438|-1.1774181|-3.111924|-2.0308185|-2.3089654|2.4695222|2.363846|-0.35289463|1.4507931|-6.1389465|-1.5862699|1.1400979|-2.6170232|0.34984955|0.9912122|-0.87834686|-2.158159|-0.41640872|</string>
+    <string name="prof60_fhd_fileFormat_key"></string>
+    <string name="pref_camera_dirty_lens_history_key3">-17.0|3.9058206|-2.338898|2.426003|3.4037971|-1.5732148|0.8639169|0.009885021|-3.1391943|3.0831192|-0.7250432|-2.815032|-2.6484315|-1.1023047|3.828685|</string>
+    <string name="ptchr_underexpo_key_0">000140BD</string>
+    <boolean name="camera.sabre_force" value="false" />
+    <string name="noise_model_user_c_3_key"></string>
+    <string name="ptchr_hdr_range_plus_key">OFF</string>
+    <string name="ptchr_ochroma_l2_key">OFF</string>
+    <string name="pref_camera_dirty_lens_history_key52">-17.0|</string>
+    <string name="lib_sabren_key">0</string>
+    <string name="ptchr_outlineradius_key_2">E34F58BD</string>
+    <string name="ptchr_user_value_9_key"></string>
+    <boolean name="camera.mts_aesthetic_diversity" value="true" />
+    <string name="ptchr_spatialsub2_key_52">0B102E1E</string>
+    <string name="ptchr_vignettec_key_0">EE03271E</string>
+    <string name="ptchr_curves_log_key_0">0</string>
+    <string name="ptchr_ldr_hdr_key_52">0</string>
+    <string name="ptchr_user_gamma_12_key"></string>
+    <string name="ptchr_outlineradius_key_0">OFF</string>
+    <string name="ptchr_user_gamma_20_key"></string>
+    <string name="8985765873577535685">1</string>
+    <string name="ptchr_user_value_16_key"></string>
+    <boolean name="camera.mts_accel_faces_front" value="true" />
+    <string name="ptchr_sharp2_key">OFF</string>
+    <boolean name="camera.cuttle.sky" value="false" />
+    <string name="lib_chroma_l4_key">0</string>
+    <string name="ptchr_fixshastamerge2_2_key">OFF</string>
+    <string name="ptchr_chroma_l4_key_0">0110201E</string>
+    <string name="videocodec_240_key">0</string>
+    <string name="pref_has_checked_cheetah_mode">1</string>
+    <string name="2073998579529331665">1</string>
+    <string name="ptchr_curve_pdarks_key">OFF</string>
+    <boolean name="camera.gouda.spotlight_enhance" value="true" />
+    <string name="4548545280995497994">1</string>
+    <string name="exp_photo_limit_key">0</string>
+    <string name="ptchr_darkenlight_key_0">OFF</string>
+    <string name="flash_mode_key">0</string>
+    <string name="pref_mode_vesper_level">2</string>
+    <string name="ptchr_red_key">OFF</string>
+    <string name="ptchr_nchroma_l2_key">OFF</string>
+    <boolean name="camera.mts_actions_front" value="true" />
+    <string name="c_t_user_gr_key"></string>
+    <string name="ptchr_ndenoisea3_key">OFF</string>
+    <string name="lib_zipper2_key">0</string>
+    <string name="ptchr_lumanoise_key_0">OFF</string>
+    <string name="ptchr_lumanoise_key_3">00F6034F</string>
+    <string name="noise_model_user_c_2_key"></string>
+    <boolean name="camera.gouda.cl_seg" value="true" />
+    <string name="ptchr_depth1_key">OFF</string>
+    <string name="ptchr_sharpradius_key">OFF</string>
+    <string name="ptchr_noise_smoothing_key_2">1</string>
+    <string name="ptchr_shastamerge1_key_0">OFF</string>
+    <string name="ptchr_oluma_l1_key">OFF</string>
+    <string name="ptchr_blackness_key">OFF</string>
+    <string name="ptchr_noise_smoothing_key_3">1</string>
+    <string name="ptchr_sabre1_key_52">00103E1E</string>
+    <string name="ptchr_noise_smoothing_key_0">1</string>
+    <string name="lib_sharpness_key">88FAE7D2</string>
+    <string name="ptchr_curve_whites_key">OFF</string>
+    <string name="lib_chromahigh_l2_key">0010701E</string>
+    <string name="ptchr_nluma_l5_key">OFF</string>
+    <string name="noise_model_user_o_s_key"></string>
+    <boolean name="camera.artemis" value="true" />
+    <string name="dev_setting_filter_key">post</string>
+    <string name="ptchr_cg5_key">OFF</string>
+    <string name="ptchr_exposuren2_key">OFF</string>
+    <string name="ptchr_nchromahigh_l5_key">OFF</string>
+    <string name="ptchr_chroma_l4_key">OFF</string>
+    <string name="lib_redgreen_key">0</string>
+    <string name="lib_temporal_radius_key">0ca0a852</string>
+    <string name="ptchr_fixshastamerge2_1_key">OFF</string>
+    <string name="prof30_fhd_audioChannels_key"></string>
+    <string name="pref_camera_selfie_mirror_key">1</string>
+    <string name="pref_enable_patcher_key">0</string>
+    <string name="gl_preview_key">0</string>
+    <string name="ptchr_underexpo2_key">OFF</string>
+    <string name="ptchr_ndenoiseb1_key">OFF</string>
+    <string name="lib_bpyg_key">0</string>
+    <string name="videobitrate_120_key">0</string>
+    <string name="prof30_fhd_audioCodec_key"></string>
+    <string name="c_t_user_key_0">0</string>
+    <string name="ptchr_clarity_key_0">08102F1E</string>
+    <string name="lib_chroma_l5_key">0</string>
+    <string name="prof30_fhd_audioBitRate_key"></string>
+    <string name="ptchr_sharp3_key">OFF</string>
+    <string name="c_t_key">0</string>
+    <string name="ptchr_bpyg_key">OFF</string>
+    <string name="lib_clarity_key">0810301E</string>
+    <string name="eis_v_le_key_0">0</string>
+    <string name="ptchr_contrast3_key_0">230A231E</string>
+    <boolean name="legacy_pixel" value="false" />
+    <boolean name="autotimer_tutorial_shown" value="true" />
+    <string name="ptchr_sharpsmoothing_key">OFF</string>
+    <string name="gawb_key_80">NEXUS_EXPERIMENTAL_2016</string>
+    <string name="lib_spatialn2_key">1400a852</string>
+    <string name="perf_has_shown_options_bar">1</string>
+    <string name="ptchr_user_gamma_21_key"></string>
+    <string name="ptchr_hdr1_key">OFF</string>
+    <string name="lib_sharprlarge_key">0</string>
+    <string name="ptchr_outlineradius_key">OFF</string>
+    <string name="gawbratio_key">1.0</string>
+    <string name="lib_gamma_whites_key">15</string>
+    <string name="debug_manual_focus_key_0">0</string>
+    <boolean name="pd_image_format_is_raw_depth10" value="true" />
+    <string name="fileformat_120_key">0</string>
+    <string name="560925948130272191">1</string>
+    <string name="ptchr_user_value_15_key"></string>
+    <string name="ptchr_colprocessing_key_0">08008052</string>
+    <string name="ptchr_exposure_setting_key_0">1</string>
+    <boolean name="hdrnet_enabled" value="false" />
+    <string name="ptchr_hdr1_key_0">OFF</string>
+    <string name="pref_camera_dirty_lens_history_key21"></string>
+    <string name="prof30_fhd_audioSampleRate_key"></string>
+    <string name="quality_key_21">3</string>
+    <string name="ptchr_user_gamma_11_key"></string>
+    <string name="ptchr_fixshastamerge2_3_key">OFF</string>
+    <string name="quality_key_20">0</string>
+    <string name="def_astro_key_52">0</string>
+    <string name="ptchr_green_key_0">OFF</string>
+    <string name="ptchr_gor_key">OFF</string>
+    <string name="ptchr_nchroma_l3_key">OFF</string>
+    <string name="ptchr_cg10_key">OFF</string>
+    <string name="ptchr_colormaplut_key">OFF</string>
+    <boolean name="camera.disable_hdrplus_postview" value="false" />
+    <string name="ptchr_removeblur_key">OFF</string>
+    <string name="ptchr_ochroma_l3_key">OFF</string>
+    <boolean name="camera.mts_aesthetic" value="true" />
+    <string name="quality_photo_corrector_key_0">2</string>
+    <string name="quality_photo_corrector_key_2">0</string>
+    <string name="ptchr_underexpo1_key">OFF</string>
+    <string name="lib_green_key">0</string>
+    <string name="ptchr_saturation_key_52">48FEE7D2</string>
+    <string name="noise_model_key">0</string>
+    <string name="lib_chromahigh_l3_key">0010701E</string>
+    <string name="pref_camera_front_flashmode_key">off</string>
+    <string name="c_t_user_gb_key"></string>
+    <string name="perf_has_run_first_education">1</string>
+    <string name="ptchr_nchromahigh_l6_key">OFF</string>
+    <int name="rectiface_support_level" value="2" />
+    <string name="gawb_user_rg_h_key"></string>
+    <string name="lib_zipper1_key">0</string>
+    <string name="ptchr_exposure_setting_key_2">0</string>
+    <string name="ptchr_exposure_setting_key_3">0</string>
+    <string name="ptchr_spatialn2_key">OFF</string>
+    <string name="noise_model_user_c_1_key"></string>
+    <string name="ptchr_sabresharp3_key_0">00902E1E</string>
+    <string name="audiobitrate_120_key">0</string>
+    <string name="pref_filename_key">1</string>
+    <string name="ptchr_sabresharp3_key_2">0018221E</string>
+    <string name="ptchr_hdr_overall_lightness_key_0">0Cd02d1e</string>
+    <string name="ptchr_sect_key_0">0</string>
+    <string name="ptchr_nluma_l4_key">OFF</string>
+    <string name="ptchr_oluma_l2_key">OFF</string>
+    <string name="ptchr_ndenoiseb2_key">OFF</string>
+    <int name="tooltip_impression_count_for_catshark_toggle_tooltip" value="4" />
+    <string name="gawb_user_bg_h_key"></string>
+    <string name="bl_key_52">1</string>
+    <string name="prof60_fhd_audioChannels_key"></string>
+    <string name="ptchr_redgreen_key_0">OFF</string>
+    <boolean name="camera.enable_lvesper" value="true" />
+    <string name="ptchr_nchromalow_l1_key">OFF</string>
+    <string name="lib_blurdenoise_key">0</string>
+    <string name="ptchr_chroma_l3_key">OFF</string>
+    <boolean name="camera.cuttle.fastaf" value="true" />
+    <string name="merge_key_0">4</string>
+    <string name="ptchr_user_addr_10_key"></string>
+    <string name="lib_OemNoise_key">1</string>
+    <string name="merge_key_2">4</string>
+    <long name="tooltip_latest_impression_timestamp_for_catshark_toggle_tooltip" value="1613765689903" />
+    <string name="merge_key_1">0</string>
+    <string name="merge_key_3">4</string>
+    <string name="ptchr_chromahigh_key_0">OFF</string>
+    <string name="merge_key_5">0</string>
+    <string name="pref_has_checked_dual_ev_brightness">1</string>
+    <string name="ptchr_sharp4_key">OFF</string>
+    <string name="ptchr_spatial_on_setting_key_52">1</string>
+    <string name="videoframerate_120_key">0</string>
+    <string name="ptchr_user_gamma_30_key"></string>
+    <string name="ptchr_dnoisereduction_key_0">OFF</string>
+    <string name="pref_camera_picturesize_front_key">3648x2736</string>
+    <string name="ptchr_user_gamma_22_key"></string>
+    <string name="compress_dng_key">1</string>
+    <boolean name="camera.cheetah_fullhd_enabled" value="true" />
+    <string name="ptchr_ndenoiseb3_key">OFF</string>
+    <boolean name="portrait_use_stereo" value="true" />
+    <string name="ptchr_sabren_key_0">OFF</string>
+    <string name="pref_imax_audio_enabled_key">0</string>
+    <string name="gawb_longexp_b">1</string>
+    <boolean name="camera.lenslite.enable_foreign_contact_recognition" value="true" />
+    <string name="ptchr_ochromahigh_l2_key">OFF</string>
+    <string name="6203568015768737540">1</string>
+    <string name="lib_user_value_4"></string>
+    <string name="pref_social_app_com_facebook_orca">0</string>
+    <string name="lib_user_value_1">08008052</string>
+    <string name="lib_user_value_2">08008052</string>
+    <string name="merge_key">2</string>
+    <string name="lib_user_value_3"></string>
+    <string name="noise_model_user_c_0_key"></string>
+    <boolean name="pd_image_format_is_raw_depth" value="true" />
+    <string name="ptchr_cg4_key">OFF</string>
+    <string name="ptchr_underexpo2_key_0">3333333F</string>
+    <string name="lib_chromalow_l4_key">0</string>
+    <boolean name="camera.acat_force_fd" value="true" />
+    <string name="ptchr_dnoisereduction_key">OFF</string>
+    <string name="ptchr_ndenoisec1_key">OFF</string>
+    <string name="ptchr_dehazedexpo_key_0">A8FEE7D2</string>
+    <string name="ptchr_dehazedexpo_key_3">28FEE7D2</string>
+    <string name="ptchr_dehazedexpo_key_2">C8FDE7D2</string>
+    <string name="pref_has_checked_ornament_mode">0</string>
+    <string name="pref_micro_mode">1</string>
+    <string name="ptchr_nchromahigh_l3_key">OFF</string>
+    <string name="ptchr_user_gamma_10_key"></string>
+    <string name="2414156329156042089">1</string>
+    <string name="noise_model_user_d_0_key"></string>
+    <string name="ptchr_blurdenoise_key_0">0D103A1E</string>
+    <string name="lib_sect_pwhites_key">333</string>
+    <string name="videoframe_120_key">0</string>
+    <string name="ptchr_blurdenoise3_key">OFF</string>
+    <string name="lib_sharp_distrib_rad1_key">0</string>
+    <string name="lib_chromamicro_key">0</string>
+    <boolean name="camera.familiar_faces" value="true" />
+    <string name="pref_link_first_time_chip_click_ms">0</string>
+    <boolean name="face_detect_mode_use_extended" value="true" />
+    <string name="audiochannels_120_key">0</string>
+    <string name="ptchr_user_addr_11_key"></string>
+    <string name="iso_photo_limit_key">0</string>
+    <string name="audiocodec_120_key">0</string>
+    <boolean name="camera.gouda.primary_raw" value="true" />
+    <string name="ptchr_luma_l3_key_0">0110201E</string>
+    <string name="ptchr_small_levels_key_0">1</string>
+    <string name="c_t_key_0">6</string>
+    <string name="c_t_key_2">6</string>
+    <boolean name="camera.mts_fast_de_ls" value="true" />
+    <string name="c_t_key_3">6</string>
+    <string name="lib_chroma_l3_key">0</string>
+    <string name="ptchr_noisesuppression_key_0">OFF</string>
+    <string name="lib_gamma_pdarks_key">250</string>
+    <string name="ptchr_user_value_18_key"></string>
+    <string name="ptchr_luma_l2_key_0">01102E1E</string>
+    <boolean name="camcorder.sync_fps" value="true" />
+    <string name="ptchr_colprocessing_key">OFF</string>
+    <boolean name="camera.gouda.stdepth" value="true" />
+    <boolean name="camera.mts_long_shot_diversity" value="true" />
+    <string name="7539641226416761403">1</string>
+    <string name="lib_sharp_distrib1_key">0</string>
+    <string name="ptchr_shastamerge2_key_0">OFF</string>
+    <string name="ptchr_cg7_key">OFF</string>
+    <boolean name="camera.allow_fine_haptics" value="true" />
+    <string name="gawb_key_52">NEXUS_EXPERIMENTAL_2016</string>
+    <string name="ptchr_user_gamma_9_key"></string>
+    <boolean name="google_llv_auto_fps_non_4k" value="true" />
+    <string name="ptchr_ndenoiseb4_key">OFF</string>
+    <string name="ptchr_sharp4_key_0">OFF</string>
+    <string name="eis_v_ph_key_0">61444</string>
+    <string name="lib_hdr1_key">0</string>
+    <string name="ptchr_bpyg_key_0">OFF</string>
+    <string name="ptchr_user_value_17_key"></string>
+    <string name="ptchr_sharpness_key">OFF</string>
+    <string name="ptchr_ochromahigh_l1_key">OFF</string>
+    <string name="sun_moon">0</string>
+    <string name="noise_model_user_g_o_key"></string>
+    <string name="pref_storage_saver_auto_disable">0</string>
+    <string name="lib_smoothness_key">00103e1e</string>
+    <string name="prof60_audioSampleRate_key"></string>
+    <string name="resampling_key">2</string>
+    <string name="pref_video_fps_p2018_key">FPS_60</string>
+    <string name="2338524165852223910">1</string>
+    <string name="pref_camera_raw_output_key">1</string>
+    <string name="ptchr_sharp1_key">OFF</string>
+    <string name="pref_social_app_com_twitter_android">0</string>
+    <string name="exp_ns_limit_key_0">0</string>
+    <string name="hdrnet_key">0</string>
+    <string name="exp_ns_limit_key_2">1000</string>
+    <string name="ptchr_nchromahigh_l4_key">OFF</string>
+    <string name="ptchr_temporal_radius_key_0">0cd0a852</string>
+    <string name="ptchr_temporal_radius_key_3">0ca0a852</string>
+    <string name="ptchr_temporal_radius_key_2">0c8ea852</string>
+    <string name="pref_video_fps_cm_key">FPS_30</string>
+    <string name="ptchr_user_gamma_23_key"></string>
+    <string name="vid_ses_tl_on_key_0">0</string>
+    <string name="ptchr_user_gamma_0_key"></string>
+    <string name="ptchr_hdr_range_plus_key_0">0330241E</string>
+    <string name="prof30_videoBitRate_key"></string>
+    <string name="ptchr_noisemodel_key_0">A1008052</string>
+    <string name="ptchr_user_addr_12_key"></string>
+    <string name="ptchr_hdr_range_plus_key_3">0350241E</string>
+    <string name="ptchr_nchroma_l1_key">OFF</string>
+    <string name="ptchr_noiseprocessing_key">OFF</string>
+    <string name="ptchr_sabretexttun_key">OFF</string>
+    <string name="lib_user_gamma_1">0.01887</string>
+    <string name="lib_user_gamma_0">0.00406</string>
+    <string name="ptchr_noisemodel_key_3">OFF</string>
+    <string name="ptchr_cg6_key">OFF</string>
+    <string name="lib_user_key_3">0</string>
+    <string name="gawb_key_20">NEXUS_EXPERIMENTAL_2016</string>
+    <string name="prof60_fhd_fileFormat_key_0">1</string>
+    <string name="lib_user_key_2">1</string>
+    <string name="gawb_key_21">SAVITAR_SAMSUNG_HMX</string>
+    <string name="key_social_share_opt_in">1</string>
+    <int name="tooltip_impression_count_for_Astro_smarts_chip" value="3" />
+    <string name="ptchr_chroma_l5_key">OFF</string>
+    <string name="key_ff_opt_in">1</string>
+    <string name="pref_has_checked_dual_ev_shadow">1</string>
+    <string name="quality_ns_corrector_key_2">5</string>
+    <string name="lib_user_key_1">0</string>
+    <string name="quality_ns_corrector_key_0">2</string>
+    <string name="lib_blackness_key">0</string>
+    <string name="ptchr_ybp_key_0">OFF</string>
+    <string name="ptchr_hdr2a_key">OFF</string>
+    <string name="ptchr_sharprsmall_key_0">OFF</string>
+    <string name="pref_long_switch_key">1</string>
+    <string name="ptchr_noisemodel_key">OFF</string>
+    <string name="ptchr_noise_settings_key_3">1</string>
+    <string name="lib_sharp_distrib2_key">0</string>
+    <string name="ptchr_noise_settings_key_2">1</string>
+    <string name="ptchr_sharprlarge_key">OFF</string>
+    <string name="ptchr_gamma_pdarks_key_0">300</string>
+    <string name="ptchr_noise_settings_key_1">0</string>
+    <string name="ptchr_noise_settings_key_0">1</string>
+    <string name="ptchr_redgreen_key">OFF</string>
+    <string name="shasta_key_3">0</string>
+    <string name="ptchr_sl_intensity_key_0">OFF</string>
+    <string name="shasta_key_5">0</string>
+    <string name="lib_user_gamma_3">0.0751</string>
+    <string name="ptchr_exposure_darker_key_0">02102E1E</string>
+    <string name="shasta_key_0">0</string>
+    <string name="lib_user_gamma_2">0.04487</string>
+    <string name="shasta_key_1">0</string>
+    <string name="lib_user_gamma_5">0.13991</string>
+    <string name="lib_chroma_l2_key">0</string>
+    <string name="shasta_key_2">0</string>
+    <string name="lib_user_gamma_4">0.10747</string>
+    <string name="lib_user_gamma_7">0.20775</string>
+    <string name="lib_user_gamma_6">0.17316</string>
+    <string name="lib_user_gamma_9">0.28068</string>
+    <string name="ptchr_exposuren2_key_0">OFF</string>
+    <string name="lib_user_gamma_8">0.24356</string>
+    <string name="ptchr_spatial_on_setting_key_0">0</string>
+    <string name="ptchr_spatial_on_setting_key_1">0</string>
+    <string name="ptchr_spatial_on_setting_key_2">1</string>
+    <string name="ptchr_spatial_on_setting_key_3">1</string>
+    <string name="ptchr_contrast_5_key">OFF</string>
+    <string name="pref_camera_coach_key">1</string>
+    <string name="ptchr_user_sect_3_key"></string>
+    <string name="preview_key_21">0</string>
+    <string name="pref_has_share_successful">1</string>
+    <string name="gawb_user_bg_f_key"></string>
+    <boolean name="camcorder_recorder_warm_up" value="true" />
+    <string name="ptchr_exposure_darker2_key_0">01902C1E</string>
+    <string name="ptchr_oluma_l4_key">OFF</string>
+    <string name="ptchr_nchromahigh_l1_key">OFF</string>
+    <string name="1221638961965246426">1</string>
+    <string name="ptchr_awb2_key">OFF</string>
+    <int name="portrait_threshold" value="2" />
+    <string name="audiosamplerate_240_key">0</string>
+    <string name="lib_lutnoise2_key">0</string>
+    <string name="ptchr_user_gamma_1_key"></string>
+    <boolean name="camera.coach.content_detection" value="true" />
+    <string name="pref_camera_picturesize_back_key">4032x3024</string>
+    <string name="ptchr_zipper1_key">OFF</string>
+    <string name="ptchr_hdrup_key">OFF</string>
+    <string name="c_t_user_rg_key"></string>
+    <string name="ptchr_user_curve_3_key"></string>
+    <string name="ptchr_user_gamma_8_key"></string>
+    <string name="artemis_key">1</string>
+    <string name="lib_user_gamma_20">0.66644</string>
+    <boolean name="camera.mts_full_br_ls" value="true" />
+    <string name="lib_smoothing1_key">080080D2</string>
+    <string name="lib_user_gamma_21">0.69908</string>
+    <string name="lib_user_gamma_22">0.73115</string>
+    <string name="5767467653161381209">1</string>
+    <string name="lib_user_gamma_23">0.76243</string>
+    <string name="lib_user_gamma_24">0.79349</string>
+    <string name="lib_user_gamma_25">0.82478</string>
+    <string name="lib_user_gamma_26">0.85573</string>
+    <string name="lib_user_gamma_27">0.88553</string>
+    <string name="disable_lens_key_3">0</string>
+    <string name="lib_user_gamma_28">0.91446</string>
+    <string name="disable_lens_key_0">0</string>
+    <string name="lib_user_gamma_29">0.94317</string>
+    <string name="disable_lens_key_1">0</string>
+    <string name="prof60_fhd_audioBitRate_key"></string>
+    <string name="ptchr_dehazedexpo_key">OFF</string>
+    <string name="ptchr_main_global_settings_key_2">1</string>
+    <string name="ptchr_ochromahigha_l4_key">OFF</string>
+    <string name="ptchr_main_global_settings_key_3">1</string>
+    <string name="lib_filtercoef2_key">0</string>
+    <string name="wb_mode_key">1</string>
+    <string name="prof30_audioChannels_key"></string>
+    <string name="lib_hdr2b_key">0</string>
+    <string name="ptchr_main_global_settings_key_0">1</string>
+    <boolean name="camera.cuttle.sky_eager_init" value="false" />
+    <string name="ptchr_user_value_13_key"></string>
+    <boolean name="camera.60fps" value="true" />
+    <string name="ptchr_lumanoise_key">OFF</string>
+    <string name="lib_user_gamma_31">1.0</string>
+    <string name="ptchr_cg9_key">OFF</string>
+    <string name="device_key">3</string>
+    <boolean name="camera.lenslite.enable_foreign_language_detection" value="true" />
+    <string name="preview_key">0</string>
+    <string name="galley_key">1</string>
+    <string name="ptchr_hdr2b_key">OFF</string>
+    <string name="shasta_key">25</string>
+    <string name="ptchr_sharp1_key_0">OFF</string>
+    <string name="ptchr_grid_settiins_key_52">0</string>
+    <string name="ptchr_blackness_key_0">OFF</string>
+    <string name="ptchr_smoothing1_key_0">OFF</string>
+    <string name="ptchr_sharp1_key_2">OFF</string>
+    <string name="pref_video_fps_8k_key">FPS_30</string>
+    <string name="ptchr_user_gamma_31_key"></string>
+    <string name="ptchr_saturation_key_3">48FEE7D2</string>
+    <string name="ptchr_saturation_key_0">A8FEE7D2</string>
+    <string name="pref_af_mode_front">0</string>
+    <string name="ptchr_saturation_key_2">68FEE7D2</string>
+    <string name="lib_user_gamma_30">0.97168</string>
+    <string name="noise_model_key_0">33</string>
+    <boolean name="camcorder.animate_stab_button" value="false" />
+    <string name="noise_model_key_2">34</string>
+    <string name="lib_sl_intensity_key">0</string>
+    <string name="ptchr_user_sect_2_key"></string>
+    <string name="ptchr_user_curve_4_key"></string>
+    <string name="ptchr_nchromahigh_l2_key">OFF</string>
+    <string name="gawb_portrait_b">0</string>
+    <string name="lib_anoisemodels_key">0</string>
+    <string name="noise_model_key_3">35</string>
+    <string name="lib_chromalow_key">08FBE7D2</string>
+    <string name="gawbratio_key_80">1.002930</string>
+    <string name="gawb_user_bg_g_key"></string>
+    <string name="lib_lutnoise1_key">0</string>
+    <string name="ptchr_awb3_key">OFF</string>
+    <int name="gcam.zsl_ns.forcedtbfactor" value="10" />
+    <boolean name="gcam.zsl_ns" value="true" />
+    <string name="wl_key_0">0</string>
+    <string name="lib_user_sect_3">0.6785</string>
+    <string name="ptchr_cg9_key_0">OFF</string>
+    <string name="lib_user_sect_2">0.5089</string>
+    <string name="lib_noisesuppression_key">00000044</string>
+    <string name="lib_user_gamma_10">0.31901</string>
+    <string name="lib_user_sect_5">1.0</string>
+    <string name="lib_user_gamma_11">0.35798</string>
+    <string name="lib_user_sect_4">0.865</string>
+    <string name="lib_user_gamma_12">0.39771</string>
+    <string name="lib_user_gamma_13">0.4364</string>
+    <string name="lib_user_gamma_14">0.47416</string>
+    <string name="lib_user_gamma_15">0.50976</string>
+    <string name="ptchr_user_gamma_7_key"></string>
+    <string name="lib_user_gamma_16">0.54203</string>
+    <string name="ptchr_user_addr_1_key"></string>
+    <string name="lib_user_gamma_17">0.57293</string>
+    <string name="lib_user_gamma_18">0.60386</string>
+    <string name="lib_user_gamma_19">0.63463</string>
+    <string name="pref_max_brightness_key">0</string>
+    <string name="-2258126781400266130">1</string>
+    <int name="gcam.max_burst_size" value="17" />
+    <string name="preview_key_52">0</string>
+    <string name="ptchr_cg6_key_0">OFF</string>
+    <string name="ptchr_contrast_1_key_0">OFF</string>
+    <int name="gcam.sabre_burst_size" value="17" />
+    <string name="lib_outlineradius_key">0</string>
+    <string name="lib_chromahigh_l4_key">0010701E</string>
+    <string name="ptchr_noiseprocessing_key_0">17020037</string>
+    <int name="camera.first_preview_frame" value="2" />
+    <string name="preview_key_0">0</string>
+    <string name="preview_key_1">1</string>
+    <string name="ptchr_luma_l4_key_0">0110201E</string>
+    <string name="exp_portrait_limit_key_0">100</string>
+    <string name="preview_key_3">1</string>
+    <string name="lib_user_sect_1">0.3392</string>
+    <string name="lib_user_sect_0">0.1696</string>
+    <string name="ptchr_ndenoisea1_key">OFF</string>
+    <string name="ptchr_brightness_key_0">OFF</string>
+    <string name="quality_240_key">0</string>
+    <string name="lib_filtercoef3_key">0</string>
+    <string name="ptchr_noisemodelunblock_key_0">08686838</string>
+    <string name="ptchr_noisemodelunblock_key_2">08686838</string>
+    <string name="ptchr_noisemodelunblock_key_3">61008052</string>
+    <string name="all_sixty_key">1</string>
+    <string name="ptchr_enable_key_52">1</string>
+    <string name="ptchr_user_curve_9_key"></string>
+    <string name="pref_zoom_out_command_string">-1</string>
+    <string name="pref_has_checked_measure_mode">0</string>
+    <string name="prof30_audioBitRate_key"></string>
+    <string name="frez_key">0</string>
+    <string name="ptchr_hdr_effect_intensity_key">OFF</string>
+    <string name="lib_hdr2a_key">0</string>
+    <string name="lib_sharp_distrib_rad2_key">0</string>
+    <string name="ptchr_user_gamma_2_key"></string>
+    <string name="lib_darkenlight_key">0</string>
+    <string name="pref_social_app_com_google_android_apps_tachyon">0</string>
+    <boolean name="camera.gouda.firefly_enabled" value="true" />
+    <string name="ptchr_clarity_key">OFF</string>
+    <string name="8191760069122561912">1</string>
+    <string name="frame_count_key_0">25</string>
+    <string name="pref_camera_selfie_flashmode_key">0</string>
+    <string name="exp_photo_limit_key_0">0</string>
+    <string name="ptchr_ochromahigha_l3_key">OFF</string>
+    <string name="c_f_a_key">0</string>
+    <string name="exp_photo_limit_key_2">100</string>
+    <string name="ptchr_user_addr_19_key"></string>
+    <boolean name="squeeze_supported" value="false" />
+    <string name="ptchr_cg8_key">OFF</string>
+    <string name="frame_count_key_3">20</string>
+    <string name="frame_count_key_2">20</string>
+    <string name="device_hdrplus_key_20">0</string>
+    <string name="device_hdrplus_key_21">0</string>
+    <string name="ptchr_noisereduction_key">OFF</string>
+    <string name="ptchr_blurdenoise_key">OFF</string>
+    <string name="audiochannels_240_key">0</string>
+    <string name="ptchr_contrast3_key">OFF</string>
+    <string name="ptchr_grid1_key_0">OFF</string>
+    <string name="quality_portrait_corrector_key_0">2</string>
+    <string name="vid_ses120_all_key">0</string>
+    <string name="ptchr_vignette_key">OFF</string>
+    <string name="ptchr_user_curve_5_key"></string>
+    <string name="ptchr_user_sect_1_key"></string>
+    <string name="ptchr_underexpo_key">OFF</string>
+    <boolean name="audio_restriction_enabled" value="true" />
+    <string name="ptchr_ybp_key">OFF</string>
+    <string name="ptchr_zipper2_key_0">0000E03F</string>
+    <string name="lib_hdr_overall_lightness_key">0Cd02d1e</string>
+    <string name="lib_grid1_key">0</string>
+    <string name="ptchr_nchroma_l4_key">OFF</string>
+    <string name="ptchr_user_value_14_key"></string>
+    <string name="iso_ns_limit_key">0</string>
+    <string name="gawb_user_bg_d_key"></string>
+    <string name="ptchr_green_key">OFF</string>
+    <boolean name="camera.ddepth_preference_override" value="true" />
+    <string name="ptchr_spatialsub2_key_3">0B102A1E</string>
+    <string name="lib_ybp_key">0</string>
+    <string name="ptchr_spatialsub2_key_2">0B102E1E</string>
+    <string name="ptchr_spatialsub2_key_0">0BD02F1E</string>
+    <string name="lib_exposure_darker2_key">0</string>
+    <boolean name="camera.ddepth_rear" value="true" />
+    <string name="ptchr_hdr_overall_lightness_key">OFF</string>
+    <string name="prof60_fhd_audioSampleRate_key"></string>
+    <boolean name="fps_video_setting_writeable" value="true" />
+    <string name="device_hdrplus_key_80">0</string>
+    <string name="ptchr_hdr_range_minus_key">OFF</string>
+    <string name="gawb_key">0</string>
+    <string name="lib_sabre2_key">084EA852</string>
+    <string name="ptchr_fine_tuning_key_0">1</string>
+    <string name="ptchr_fine_tuning_key_2">1</string>
+    <string name="ptchr_sharpradmed_key">OFF</string>
+    <boolean name="camera.gouda_sec_img" value="true" />
+    <string name="reinit_cam_id">0</string>
+    <boolean name="camera.gouda.allow_raw_blur_front" value="true" />
+    <string name="ptchr_user_value_11_key"></string>
+    <string name="ptchr_ndenoisea2_key">OFF</string>
+    <string name="ptchr_sabren_key">OFF</string>
+    <string name="galley_lt_key">1</string>
+    <string name="ptchr_user_gamma_3_key"></string>
+    <boolean name="camera.shasta_zsl" value="true" />
+    <string name="videoframerate_240_key">0</string>
+    <string name="hwlevel_key_80">0</string>
+    <string name="ptchr_brightness_key">OFF</string>
+    <string name="device_hdrplus_key_52">0</string>
+    <string name="motion_key">0</string>
+    <long name="tooltip_latest_impression_timestamp_for_cuttlefish_steady_advice" value="1617206420145" />
+    <string name="c_t_user_rb_key"></string>
+    <string name="ptchr_gamma_pwhites_key_0">333</string>
+    <string name="noise_model_user_g_s_key"></string>
+    <boolean name="camera.gouda.raw" value="true" />
+    <string name="lib_contrast_2_key">5C8FC2F5285CDF3F</string>
+    <string name="lib_sharpradius_key">0</string>
+    <string name="ptchr_oluma_l3_key">OFF</string>
+    <string name="prof60_audioCodec_key"></string>
+    <string name="ptchr_grid2_key_0">OFF</string>
+    <string name="focus_key">0</string>
+    <string name="ptchr_user_curve_8_key"></string>
+    <int name="rectiface_shape_correction_threshold" value="4" />
+    <string name="pref_lib_iso_option_available_key">00006041</string>
+    <string name="pref_photos_gallery_key">1</string>
+    <boolean name="camera.hdr_hvx.RESTART" value="true" />
+    <string name="noise_model_key_52">0</string>
+    <string name="ptchr_user_addr_18_key"></string>
+    <int name="device_config" value="3" />
+    <string name="ptchr_zipper_key">OFF</string>
+    <int name="tooltip_impression_count_for_cuttlefish_steady_advice" value="1" />
+    <string name="pref_has_checked_tiara_mode">0</string>
+    <string name="ptchr_gamma_pwhites_key">OFF</string>
+    <string name="ptchr_luma_key">OFF</string>
+    <string name="ptchr_user_addr_17_key"></string>
+    <string name="ptchr_nchroma_l5_key">OFF</string>
+    <string name="ptchr_user_curve_6_key"></string>
+    <string name="ptchr_chromamicro_key">OFF</string>
+    <boolean name="camcorder.stokes_thr" value="true" />
+    <string name="ptchr_sect_pwhites_key">OFF</string>
+    <string name="prof60_fileFormat_key"></string>
+    <string name="pref_social_app_com_facebook_katana">0</string>
+    <string name="ptchr_zipper2_key">OFF</string>
+    <string name="ptchr_noisemodelunblock_key_52">61008052</string>
+    <string name="prof60_fhd_audioCodec_key_0">1</string>
+    <string name="pref_has_checked_social_share_toggle">1</string>
+    <string name="ptchr_user_sect_0_key"></string>
+    <string name="lib_sabre1_key">0090321E</string>
+    <string name="lib_curve_darks_key">-8</string>
+    <string name="lib_grid2_key">0</string>
+    <string name="ptchr_ndenoisea4_key">OFF</string>
+    <string name="ptchr_contrast_4_key">OFF</string>
+    <string name="ptchr_awb1_key">OFF</string>
+    <string name="pref_social_app_com_whatsapp">0</string>
+    <string name="noise_model_user_key_0">0</string>
+    <string name="gawb_user_bg_e_key"></string>
+    <string name="gawb_key_3">SAVITAR_IMX363</string>
+    <string name="lib_user_curve_5">0.348</string>
+    <string name="gawb_key_2">NIKITA_IMX371</string>
+    <string name="lib_user_curve_4">0.263</string>
+    <string name="ptchr_user_value_12_key"></string>
+    <string name="lib_user_curve_3">0.184</string>
+    <string name="ptchr_user_gamma_4_key"></string>
+    <string name="lib_user_curve_2">0.114</string>
+    <string name="lib_user_curve_9">0.678</string>
+    <string name="lib_user_curve_8">0.601</string>
+    <string name="ptchr_sect_pdarks_key">OFF</string>
+    <string name="iso_portrait_limit_key">0</string>
+    <string name="lib_user_curve_7">0.519</string>
+    <string name="cawb_key_52">0</string>
+    <string name="lib_user_curve_6">0.434</string>
+    <string name="ptchr_depth1_key_0">03102c1e</string>
+    <string name="lib_user_curve_1">0.055</string>
+    <string name="lib_user_curve_0">0.013</string>
+    <string name="gawb_key_1">ULTRA_IMX471</string>
+    <string name="gawb_key_0">ULTRA_IMX471</string>
+    <float name="camera.zsl.extended_buffer_factor" value="2.0" />
+    <string name="lib_contrast_1_key">0</string>
+    <string name="pref_opt_video_stabilization_key">1</string>
+    <string name="quality_key_1">3</string>
+    <boolean name="camera.cuttle.glpreview" value="true" />
+    <string name="quality_key_0">3</string>
+    <string name="quality_key_3">0</string>
+    <string name="gawbratio_key_20">1.002930</string>
+    <string name="quality_key_2">3</string>
+    <string name="gawbratio_key_21">6</string>
+    <boolean name="camera.enable_lenslite" value="true" />
+    <string name="lib_gamma_key">0</string>
+    <string name="ptchr_user_curve_7_key"></string>
+    <string name="lib_chromahigh_l1_key">0010701E</string>
+    <string name="ptchr_processing_col_key_52">0</string>
+    <string name="lib_filtercoef1_key">0</string>
+    <string name="ptchr_depth2_key">OFF</string>
+    <string name="ptchr_sharprsmall_key">OFF</string>
+    <string name="ptchr_light_shadow_key_52">0</string>
+    <string name="ptchr_zipper1_key_0">0000E03F</string>
+    <string name="hwlevel_key_52">3</string>
+    <boolean name="camera.catshark_af" value="true" />
+    <string name="lens_wl_key">52</string>
+    <boolean name="camera.lenslite.enable_copy_text" value="true" />
+    <string name="pref_video_resolution">RES_2160P</string>
+    <boolean name="camera.audio_zoom" value="true" />
+    <string name="lib_bluecor_key">0</string>
+    <string name="lib_smoothing2_key">080080D2</string>
+    <string name="pref_camera_advice_settings">1</string>
+</map>
